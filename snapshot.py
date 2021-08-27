@@ -1,3 +1,4 @@
+#takes the screenshot of the present screen
 import numpy as np
 import pyautogui
 myScreenshot = pyautogui.screenshot()
